@@ -1,0 +1,9 @@
+[package]
+name = "WPMeter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = "0.5.3"
+tao = "0.34.5"
+tray-icon = "0.21.3"
