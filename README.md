@@ -20,7 +20,6 @@ Debug mode compiles faster and includes debug symbols, useful during development
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/WPMeter.git
 cd WPMeter
 
 # Run in debug mode
